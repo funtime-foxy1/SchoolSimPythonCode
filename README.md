@@ -1,2 +1,2 @@
 # SchoolSimPythonCode
-python game
+THIS IS CODE ONLY. FREE TO USE
